@@ -72,8 +72,3 @@ WHERE
 			department_managers.emp_id = employees.emp_id
 	)
 ;
-
-
-
-
-
