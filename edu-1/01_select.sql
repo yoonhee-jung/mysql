@@ -138,7 +138,7 @@ WHERE
 -- DESC: 내림차순
 SELECT *
 FROM employees
-ORDER BY NAME ASC, birth ASC -- 똑같은 첫 번째 데조건 데이터에 관해 
+ORDER BY NAME ASC, birth ASC -- 똑같은 첫 번째 조건 데이터에 관해 
 -- 두 번째 조건 정렬(ex.강가람 > birth)
 ;
 
